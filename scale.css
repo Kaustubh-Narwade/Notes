@@ -1,0 +1,13 @@
+a {
+  transition: 250ms;
+}
+
+a:hover {
+  transition: 250ms;
+  scale: 1.15;
+}
+
+a:active {
+  transition: 250ms;
+  scale: 0.85;
+}
