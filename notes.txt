@@ -1,0 +1,4 @@
+1. HTML from a string [ postInfo.content = <p> Hello world </p>
+    <div
+      dangerouslySetInnerHTML={{ __html: postInfo.content }}
+    />
